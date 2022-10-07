@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @uvinod
+- 👀 I’m interested in developing web apps and APIs
+- 🌱 I’m currently learning containerization and CI/CD pipeline
+- 💞️ I’m looking to collaborate on SAAS products
+- 📫 You can reach me at mail@uvinod.net
