@@ -6,8 +6,6 @@
 
   - Kubernetes – how to deploy, scale, monitor, and hook it up with CI/CD
   
-  - Micro-frontends – module federation, sharing context, and keeping teams independent
-  
 🔭 Next up:
 
   - AI – to ship faster, automate workflows
